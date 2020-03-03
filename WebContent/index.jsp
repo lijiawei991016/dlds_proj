@@ -7,10 +7,6 @@
 <title>首页</title>
 </head>
 <body>
-<<<<<<< HEAD
 	<p>方聪对我代码下毒</p>
-=======
-	<p>方聪对我代码下小雨</p>
->>>>>>> refs/heads/spitone
 </body>
 </html>
