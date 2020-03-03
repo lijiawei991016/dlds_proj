@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>首页</title>
+<title>登录</title>
 </head>
 <body>
-<<<<<<< HEAD
-	<p>方聪对我代码下毒</p>
-=======
-	<p>方聪对我代码下小雨</p>
->>>>>>> refs/heads/spitone
+	<p>登录页面啊</p>
 </body>
 </html>
