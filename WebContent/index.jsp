@@ -7,7 +7,6 @@
 <title>首页</title>
 </head>
 <body>
-	<p>方聪对我代码下毒</p>
-	<p>方聪下地狱吧</p>
+	<p>方聪对我代码下</p>
 </body>
 </html>
